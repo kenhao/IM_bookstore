@@ -4,6 +4,8 @@
 
 IMBOOKSTORE is a comprehensive online bookstore project aimed at providing users with a convenient online book purchasing experience. This project integrates efficient database management, user-friendly interface design, and a wealth of book resources, dedicated to offering a one-stop online book shopping service.
 
+![IMBOOKSTORE Screenshot](https://i.imgur.com/DaJEtpa.jpg)
+
 ## Technology Stack
 
 - **Framework**: HTML, CSS, Javascript, PHP, MySQL
